@@ -90,3 +90,11 @@ left: 0.3125rem;
     top: auto;
     bottom: 0.625rem;
 }
+
+nav.active .icon .line1 {
+    transform: rotate(-765deg) translateY(0.3438rem);
+}
+
+nav.active .icon .line2 {
+    transform: rotate(765deg) translateY(-0.3438rem);
+}
