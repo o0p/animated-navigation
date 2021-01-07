@@ -85,3 +85,8 @@ position: absolute;
 top: 0.625rem;
 left: 0.3125rem;
 }
+
+.icon .line2 {
+    top: auto;
+    bottom: 0.625rem;
+}
