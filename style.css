@@ -76,3 +76,12 @@ nav ul a {
 .icon:focus {
     outline: 0;
 }
+
+.icon .line {
+background-color: #5290f9;
+height: 0.125rem;
+width: 1.25rem;
+position: absolute;
+top: 0.625rem;
+left: 0.3125rem;
+}
